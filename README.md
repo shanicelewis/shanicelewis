@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanicelewis
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me shanicelewis630@gmail.com
 
